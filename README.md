@@ -1,4 +1,12 @@
-# Mobile Automation testing with Python and RobotFramework
+## Description
+### Mobile Automation test based on Appium python with RobotFrameWork. <br>
+- The Test uses the page object framework.
+- In the customLibraries directory are two custom libraries, one to automatically start Appium, and the second to generate random string for the test.
+- Reports and log file are automatically generated. (By default, they are generated in the root directory, to generated them in the reports directory ```--outputdir``` command is used)
+- If test fails, screenshot is being saved in the reports folder. (With the ```--outputdir``` command)
+
+
+
 
 # _My Work_
 
